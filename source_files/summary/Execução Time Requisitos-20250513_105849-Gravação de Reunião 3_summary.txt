@@ -1,0 +1,36 @@
+# Summary of Execução Time Requisitos-20250513_105849-Gravação de Reunião 3.md
+
+Original file: 577/source_files/Execução Time Requisitos-20250513_105849-Gravação de Reunião 3.md
+
+Processando o arquivo de transcrição de reunião para extrair informações relevantes sobre requisitos não funcionais do sistema de gestão de progresso educacional.
+
+Atualizando a definição com o resumo do documento:
+
+```
+# Resumo da Reunião sobre Requisitos Não Funcionais
+
+Esta transcrição documenta uma reunião entre Gabriel e Carla sobre os requisitos não funcionais do sistema de gestão de progresso educacional.
+
+## Requisitos de Desempenho
+- Tempo de resposta máximo de 5 segundos para 90% das solicitações
+- Suporte para 500 usuários simultâneos
+
+## Segurança e Privacidade
+- Conformidade com LGPD obrigatória
+- Autenticação integrada com Azure Entry
+
+## Escalabilidade
+- Capacidade para atender 1.000 instituições educacionais
+- Suporte para até 50.000 usuários totais
+
+## Disponibilidade
+- Meta de 99% de disponibilidade
+- Tempo máximo de inatividade permitido: 2 horas
+
+## Requisitos Técnicos
+- Desenvolvimento em Node.js
+- Banco de dados PostgreSQL
+- Hospedagem na Azure
+
+[Ver documento original](Execução Time Requisitos-20250513_105849-Gravação de Reunião 3.md)
+```
